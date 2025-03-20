@@ -13,7 +13,7 @@ You can browse my portfolio either by **skills** or by **type of project**:
 
 ### Projects:
 - Data Analysis *(coming soon!)*
-- Tutorials*(coming soon!)*
+- Tutorials *(coming soon!)*
 
 ## Contact:
 - [LinkedIn](my-linkedin-url)
